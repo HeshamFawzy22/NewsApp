@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="warning">Warning!</string>
+    <string name="do_you_want_to_exit">Do you want to exit?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+</resources>
